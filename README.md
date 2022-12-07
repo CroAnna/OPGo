@@ -16,7 +16,6 @@ The final application prototype made in Figma can be found on <a href="https://w
     <li><a href="user-stories-textual.pdf">User stories</a></li>
     <li><a href="blueprint.jpg">Blueprint</a></li>
     <li><a href="functionality-description.pdf">Functionality description</a></li>
-    <li></li>
   </ul>
 </li>
 
