@@ -2,7 +2,7 @@
 An university project for course Informatics Services Management
 
 ## About
-<img src="">
+<img src="logo-opgo.png" width="300px">
 OPGo is an mobile app used to order food from local family farms in Croatia, on modern, easy-to-use way. 
 The final application prototype can be found on <a href="https://www.figma.com/file/VBEtxseNKc7SoFF85VSa2q/OPGo?node-id=0%3A1&t=8PRnejrVOuvGSAtX-1" >this link</a>
 
@@ -14,7 +14,7 @@ The final application prototype can be found on <a href="https://www.figma.com/f
     <li>Customer journey map</li>
     <li>Personas</li>
     <li>User stories</li>
-    <li>Blueprint</li>
+    <li><a href="blueprint.jpg">Blueprint</a></li>
     <li></li>
     <li></li>
   </ul>
