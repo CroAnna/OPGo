@@ -22,8 +22,8 @@ The final application prototype made in Figma can be found on <a href="https://w
 <li>Prototyping
 <ul>
     <li><a href="initial-wireframe.pdf">Initial wireframe made using Figma</a></li>
-    <li><a href="final-prototype.pdf">Final application wireframe made using Figma<\a></li>
-    <li><a href="AB-testing.pdf">A/B tests<\a></li>
+    <li><a href="final-prototype.pdf"> Final application wireframe made using Figma </a></li>
+    <li><a href="AB-testing.pdf">A/B tests </a></li>
     <li><a href="testing-scenarios.pdf">Testing scenarios</a></li>
   </ul>
 </li>
